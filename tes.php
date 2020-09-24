@@ -193,4 +193,5 @@ $pdf_options = array(
 // CALL THE phpToPDF FUNCTION WITH THE OPTIONS SET ABOVE
 phptopdf($pdf_options);
 //Hello Guys how are you
+//Namaste
 ?>
